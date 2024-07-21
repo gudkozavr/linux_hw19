@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: rgb(7, 109, 94);
+}
+
+form {background-color: rgb(38, 162, 173);
+  
+  height: 122px;
+max-width: 32px ;
+max-height: 120px;
+min-width: 220px;
+min-height: 120px;
+margin-right: 10%;
+margin-top: 100px;
+margin-left: 30%;
+margin-top: 20%;
+border-radius: 4px;
+}
+
+.login
+{
+  display: flex; 
+  flex-direction: column;
+  padding: 2px;
+  
+  
+}
+.login input{
+  border-radius: 4px;
+  border-color: black;
+  border-width: 0.1px;
+  margin-bottom: 2px;
+}
+.dabei{
+  display: flex;
+  border: 20px;
+  justify-content: space-around;
+}
+
+.dabei button {
+  width: 47%;
+  border-radius: 4px;
+  border-width: 0.1px;
+  
+}
+.dabei input {
+  width: 50%;
+  background-color: rgb(182, 85, 85);
+  border-radius: 4px;
+  border-width: 0.1px;
+}
+.ja {
+padding-left: 28%;
+
+}
+

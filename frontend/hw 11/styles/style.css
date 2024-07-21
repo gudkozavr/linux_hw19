@@ -1,0 +1,11 @@
+.loginForm {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  background-color: cadetblue;
+  padding: 16px;
+}
+
+.loginForm > button {
+  max-width: 150px;
+}

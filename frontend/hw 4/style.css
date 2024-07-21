@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ 
+body {
+ height: 2000px ;
+}
+
+div {
+margin: auto 6px;
+
+}
+h1 {
+  background-color: pink;
+  position: sticky;
+  top: 0px;
+
+}
+
+p{
+  margin: 20px auto;
+}

@@ -1,0 +1,232 @@
+g    1  git -v
+    2  clear
+    3  git confit --global user.name "Anastasiia Gudkova"
+    4  git config -- replace-all user.name "Gudkova Anastasiia"
+    5  git config --replace-all user.net "Gudkova Anastasiia"
+    6  git config --global user.name "Gudkova Anastasiia"
+    7  git config --global user.name
+    8  git config --global user.email "hel98@gmx.de"
+    9  git konfig --global user.mail
+   10  git config --global user.email "hel98@gmx.de"
+   11  git --global user.email
+   12   git config --global user.email
+   13  git clear
+   14  git clear
+   15  git clien
+   16  git clear
+   17  git clean
+   18  code.
+   19  cat /users/ICH/.ssh/id_ssh.pub
+   20  git config --global user.name "gudkozavr"
+   21  git config --global user.email "hel98@gmx.de"
+   22  git config --list --global
+   23  git init
+   24  git config --list --show-origin
+   25  git clone https://github.com/gudkozavr/newrepository.git
+   26  pwd
+   27  cd ICH/
+   28  ls
+   29  ls
+   30  cd Ich/
+   31  cd ICH/
+   32  cd Documents/
+   33  ls
+   34  pwd
+   35  mkdir first_repo/
+   36  cd first_repo/
+   37  git init
+   38  pwd
+   39  cd .
+   40  cd ..
+   41  pwd
+   42  ls
+   43  cd vboxuser/ferst_repo
+   44  pwd
+   45  cd
+   46  cd /c/Users/ICH/first_repo/
+   47  pwd
+   48  dit config --list --global
+   49  git config --global user.name "gudkozavr"
+   50  git config --global useremail "hel98@gmx.de"
+   51  git config --global user.email "hel98@gmx.de"
+   52  dit config --list --global
+   53  git config --list --global 
+   54  git status
+   55  echo "# test" >> README.md
+   56  dit status
+   57  git status
+   58  git add README.md
+   59  git kommit - m "first commit"
+   60  git commit - m "first commit"
+   61  git commit -m "first commit"
+   62  git branch -M main
+   63  eval `ssh-agent -s`
+   64  ssh-add C:\Users\ICH\.ssh
+   65  ssh-add C:\Users\ICH\.ssh/id_rsa_privat
+   66  ssh-add C:\Users\ICH\.ssh\i
+   67  ls ~/.ssh
+   68  ssh-add C:\Users\ICH\.sshls ~/.ssh
+   69  ssh-add ~/.ssh/id_rsa_pr
+   70  ls ~/.ssh
+   71  ssh-add C:\Users\ICH\.ssh
+   72  ssh-add ~/.ssh/id_rsa_pr
+   73  ssh-add C:\Users\ICH\.sshid_rsa_pr
+   74  ssh-add ~/.ssh/id_rsa
+   75  ls -cch
+   76  ls -a ~/.ssh
+   77  ssh-ad ~/.ssh/id_rsa
+   78  ssh-add ~/.ssh/id_rsa
+   79  ssh -add ~/.ssh/id_rsa
+   80  ssh-add ~/.ssh/id_rsa
+   81  pwd
+   82  git commit -m "first commit"ICH@DESKTOP-QENOM5D MINGW64 ~/first_repo (main)
+   83  ICH@DESKTOP-QENOM5D MINGW64 ~/first_repo (main)
+   84  $ ssh-add ~/.ssh/id_rsa
+   85  Error loading key "/c/Users/ICH/.ssh/id_rsa": invalid format
+   86  ICH@DESKTOP-QENOM5D MINGW64 ~/first_repo (main)
+   87  $ ssh-add ~/.ssh/id_rsa
+   88  Error loading key "/c/Users/ICH/.ssh/id_rsa": invalid format
+   89  pwd
+   90  ls
+   91  rm -rf .git
+   92  ls -lah
+   93  git init
+   94  ls -lah
+   95  gid add
+   96  git add
+   97  dit add .
+   98  git add .
+   99  echo "hello teacher :)" >>README.md 
+  100  git status
+  101  git add .
+  102  git status
+  103  git commit -m "ADDED Photo" 
+  104   git branch -M main
+  105  git remote add origin git@github.com:gudkozavr/first_repo.git
+  106  git push -u origin main
+  107  cd ~/.ssh
+  108  ls
+  109  cat id_rsa.pub 
+  110  clip
+  111  clip < id_rsa.pub 
+  112  cd ~/first_repo/
+  113  git push -u origin main
+  114  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  115  eval `ssh-agent -s`
+  116  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  117  cat id_rsa
+  118  cat ~/.ssh/id_rsa
+  119  dos2unix.exe ~/.ssh/id_rsa
+  120  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  121  git push -u origin main
+  122  ls
+  123  mk dir ~/git-branch
+  124  mkdir ~/git-branch
+  125  git init ~/git-branch
+  126  cd ~/git-branch
+  127  git remote add origin https://github.com/igor122342143256376/git-branch.git
+  128  git checkout -b gitignore
+  129  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  130  ls
+  131  ls -la
+  132  git add .gitignore
+  133  git push -u origin gitignore
+  134  ls
+  135  dit status
+  136  git status
+  137  git add
+  138  git add .
+  139  git remote -v
+  140  git remote origin https://github.com/gudkozavr/newrepository.git
+  141  git remote -v
+  142  git status
+  143  git clone [200~
+  144  pwd
+  145  git clone https://github.com/latentflip/loupe.git
+  146  cd loupe/
+  147  ls
+  148  code .
+  149  --help
+  150  -help
+  151  -h
+  152  ls
+  153  ls -t
+  154  ls -l
+  155  ls -h
+  156  ls -l -h
+  157  ls -lh
+  158  pwd
+  159  whoami
+  160  tree
+  161  pwd
+  162  ls
+  163  #!/bin/bash
+  164  user="anastasiia"
+  165  echo "сегодня $`date`"
+  166  echo "Hello, $user"
+  167  echo "im hear - `pwd`"
+  168  echo "`ps aux | grep bioset | grep -v grep | wc -l`"
+  169  echo "`ls -s /etc/passwd | awk '{print $1}'`"
+  170  git confik
+  171  git config
+  172  find
+  173  find . type f -name "*.git"
+  174  pwd
+  175  rm -rf .git
+  176  pwd
+  177  mkdir it_hub
+  178  cd it_hub/
+  179  pwd
+  180  mkdir git_practice
+  181  cd git_practice/
+  182  mkdir hw_8
+  183  cd hw_8/
+  184  mkdir attemt_1
+  185  cd attemt_1/
+  186  git init 
+  187  cd ..
+  188  git add .
+  189  pwd
+  190  cd attemt_1/
+  191  touch hfjdjf.txt
+  192  git add .
+  193  git commit
+  194  git branch -M main
+  195  history
+  196  ssh ec2-user@linux.itcareerhub.de
+  197  ssh ec2-user@linux.itcareerhub.de
+  198  ssh ec2-user@linux.itcareerhub.de
+  199  ssh ec2-user@linux.itcareerhub.de
+  200  ssh ec2-user@linux.itcareerhub.de
+  201  ls
+  202  ssh ec2-user@linux.itcareerhub.de
+  203  git init
+  204  git commit -m "init commit"
+  205  git add .
+  206  git commit -m "init commit"
+  207  nano .gitignore
+  208  git commit -m "init commit"
+  209  git add .
+  210  git commit -m "init commit"
+  211  git clone ttps://github.com/gudkozavr/hw12.git
+  212  git remote add origin https://github.com/gudkozavr/hw12.git
+  213  git branch -v
+  214  git remote -v
+  215  git push
+  216  git push --set-upstream origin master
+  217  git branch feature
+  218  git checkout feature
+  219  nano readme.md
+  220  git status
+  221  git commit -m "new file add"
+  222  git add .
+  223  git commit -m "new file add"
+  224  git push
+  225  git push --set-upstream origin feature 
+  226  git commit --ammend
+  227  git commit --amend
+  228  ls
+  229  git remote -v
+  230  git checkout master
+  231  git merge feature
+  232  history >> history.txt

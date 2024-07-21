@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(255, 249, 229, 1);
+}
+
+.app {
+  display: flex;
+  gap: 32px;
+  max-width: 1408px;
+  /* max-height: 728px; */
+  margin: 16px;
+}
+
+.punkt {
+  display: flex;
+  flex-direction: column;
+  min-width: 320px;
+  border-radius: 16px;
+  padding: 16px;
+  gap: 16px;
+  background-color: #9593ff;
+}
+
+.punkt > p {
+  display: block;
+  font-size: 16px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  gap: 32px;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 41.4px;
+  color: rgba(149, 147, 255, 1);
+}
+
+p {
+  font-size: 20px;
+  line-height: 23px;
+}
+
+@media screen and (max-width: 768px) {
+  .punkt {
+    min-width: 180px;
+    border-radius: 0px;
+  }
+
+  .app {
+    margin: 0px;
+  }
+
+  p {
+    font-size: 18px;
+  }
+  h1 {
+    font-size: 28px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: rgba(255, 249, 229, 1);
+    line-height: 18px;
+    padding: 0px;
+  }
+  .app {
+    gap: 0px;
+  }
+  .punkt {
+    min-width: 48px;
+    gap: 8px;
+    padding: 8px;
+  }
+
+  .punkt > p {
+    content: none;
+    font-size: 0px;
+    color: white;
+    width: 32px;
+    height: 32px;
+    padding: 8px;
+  }
+
+  .text {
+    padding: 8px;
+    gap: 16px;
+  }
+  h1 {
+    font-size: 18px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+  .styleForP_1 {
+    background-image: url("./assets/search_24dp_FILL0_wght400_GRAD0_opsz24.png");
+    background-size: cover;
+  }
+  .styleForP_2 {
+    background-image: url("./assets/key_24dp_FILL0_wght400_GRAD0_opsz24.png");
+    background-size: cover;
+  }
+
+  .styleForP_3 {
+    background-image: url("./assets/library_add_24dp_FILL0_wght400_GRAD0_opsz24.png");
+    background-size: cover;
+  }
+  .styleForP_4 {
+    background-image: url("./assets/logout_24dp_FILL0_wght400_GRAD0_opsz24.png");
+    background-size: cover;
+  }
+  .styleForP_5 {
+    background-image: url("./assets/sync_24dp_FILL0_wght400_GRAD0_opsz24.png");
+    background-size: cover;
+  }
+}
+Users/ICH/Desktop/projekt%20hw%20to%205/styles/assets/key_24dp_FILL0_wght400_GRAD0_opsz24.png

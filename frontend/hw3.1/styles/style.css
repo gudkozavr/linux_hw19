@@ -1,0 +1,57 @@
+* {
+
+margin: 0;
+padding: 0;
+}
+
+body{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div{
+ 
+  background-color: rgba(220, 244, 244, 0.902);
+  border-radius: 4px;
+  width: 450px;
+ padding:  7px;
+ margin: 25% 25%;
+}
+
+
+.container1 {
+  display: flex;
+  flex-direction: column;
+  
+  
+}
+  
+
+.container1>fieldset{
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 6px;
+   
+}
+
+.container2 {
+  display: flex;
+  
+  gap: 8px;
+
+}
+.container2>fieldset{
+  width: 49%;
+  padding: 4px;
+
+}
+
+
+
+.cknopka {
+  display: flex;
+  justify-content: center;
+  padding-top: 5px;
+}
